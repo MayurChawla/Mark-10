@@ -1,0 +1,11 @@
+why use label.?
+    - good practise
+    - otherwise u would use div but for screen readers it is not helpful
+    - label is more helpful for screen readers
+# label has a tag "for" it is to connect the label to the desired tag(markup) in html
+
+
+<caption> tag inside table would provide the description for the table
+    - also good for semantics
+
+document.queryselector can be used to get the html tag from the html code and acces it in the js file   
